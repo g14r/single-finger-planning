@@ -1,4 +1,4 @@
-# Motor planning for single finger movements
+# Motor planning of single finger movements
 This repository contains MATLAB code and data related to the Ariani, Pruszynski, Diedrichsen (2021) biorxiv paper "Motor planning brings human primary somatosensory cortex into action-specific preparatory states" https://www.biorxiv.org/content/10.1101/2020.12.17.423254v3  
 
 Toolbox dependencies to use the code:      
